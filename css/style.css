@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&family=Ysabeau:ital@0;1&display=swap');
+
+.text{
+    font-family: "Sigmar";
+    font-size: 35px;
+    line-height: 35px;
+}
+
+.NameSurname{
+    font-family: "Ysabeau";
+    font-style: italic;
+    font-size: 40px;
+    line-height: 35px;
+}
+
+P { text-align: center;}
+
+.imagedinosaur {
+    text-align: center;
+}
+
+
+body {
+    background-color:#8b00ff
+}
