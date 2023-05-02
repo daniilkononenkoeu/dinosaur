@@ -21,7 +21,9 @@ P { text-align: center;}
 
 
 body {
-    background-size: cover;
+    background-size: 100%;
+    height: 1170px;
+    min-width: 1336;
     background-color:#8b00ff
     
 }
